@@ -32,8 +32,8 @@ I am an Electronics & Communication Engineering Student <img src="https://media.
 
 - :zap: In my free time, I read tech articles and hone my soft skills.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fardin--khan)
-
+- :mailbox:How to reach me: fardinkhanz2410@gmail.com <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fardin--khan)
+-->
 ---
 <!--
 **fardinkhanz/fardinkhanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
