@@ -15,8 +15,9 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=fardinkhanz&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey there
+  Hello there, I'm Fardin Khan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/l3V0DKL9Jhyz8nKog/giphy.gif" width="600" height="350"/>
