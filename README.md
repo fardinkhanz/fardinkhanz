@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF6Nm5qZmg4NGZ3N2oyeTB6N3pyemUwZWxqdGc3cmtmeWZ3ZmVmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nm6266UyRc2EnfpAo8/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXF6Nm5qZmg4NGZ3N2oyeTB6N3pyemUwZWxqdGc3cmtmeWZ3ZmVmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nm6266UyRc2EnfpAo8/giphy.gif" width="250" />
 </div>
 
 <div id="badges">
@@ -15,7 +15,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=fardinkhanz&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hello there, I'm Fardin Khan
+    Hello there, I'm Fardin Khan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
