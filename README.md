@@ -35,8 +35,9 @@ I am an Electronics & Communication Engineering Student <img src="https://media.
 
 - :mailbox:How to reach me: fardinkhanz2410@gmail.com <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fardin--khan)
 -->
-
-
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fardinkhanz&show_icons=true&theme=transparent&rank_icon=github&hide=stars,prs,issues)
+---
 
 <!--
 **fardinkhanz/fardinkhanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
