@@ -36,6 +36,12 @@ I am an Electronics & Communication Engineering Student <img src="https://media.
 - :mailbox:How to reach me: fardinkhanz2410@gmail.com <!--[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/fardin--khan)
 -->
 ---
+
+### :fire: My Stats :
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fardin%20Khan&theme=transparent)](https://git.io/streak-stats)
+
 <!--
 **fardinkhanz/fardinkhanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
