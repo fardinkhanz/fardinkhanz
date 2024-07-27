@@ -30,7 +30,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am an Electronics & Communication Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :computer: Proficient in programming, AI, embedded systems, and digital electronics.
 
 - :seedling: Enthusiastic problem solver, engaging in coursework, research, and personal projects to enhance expertise.
